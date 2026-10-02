@@ -1,0 +1,17 @@
+Câu 1:
+Value Types: Lưu trực tiếp giá trị (`int`, `struct`). Truy xuất nhanh, tự động thu hồi khi xong việc.
+Reference Types: Lưu con trỏ (địa chỉ) trên Stack, dữ liệu thật nằm trên Heap (`class`, `string`). Cần Garbage Collector (GC) thu gom rác.
+
+Câu 2:
+set: Cập nhật giá trị bất kỳ lúc nào.
+init: Chỉ được gán 1 lần duy nhất khi vừa khởi tạo đối tượng (qua `{}`). Sau đó thành Read-only. Dùng cho các đối tượng bất biến (DTO).
+Trường hợp sử dụng thực tế: các DTOs (Data Transfer Objects) trả về từ API hoặc cấu hình hệ thống (Settings), nơi bạn muốn khởi tạo dữ liệu một cách linh hoạt, ngắn gọn lúc đầu, 
+nhưng đảm bảo không có đoạn code nào vô tình làm thay đổi dữ liệu đó về sau.
+
+Câu 3:
+virtual: Khai báo hàm và cho phép lớp con viết lại.
+override:Ghi đè (thay thế) hàm virtual của lớp cha. Khi chạy, C# tự động ưu tiên gọi hàm của lớp con (tính Đa hình).
+
+Câu 4:
+Thành phần static dùng chung một vùng nhớ duy nhất, thuộc về cấp độ Lớp (Class) chứ không thuộc về đối tượng cụ thể.
+C# bắt buộc gọi qua tên Lớp (VD: `Class.Method()`) để tránh hiểu nhầm đây là dữ liệu cá nhân của một Object.
