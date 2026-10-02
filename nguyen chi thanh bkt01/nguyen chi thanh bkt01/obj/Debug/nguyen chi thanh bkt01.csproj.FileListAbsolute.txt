@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen chi thanh bkt01.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen_chi_thanh_bkt01.Properties.Resources.resources
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen chi thanh bkt01.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen chi thanh bkt01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen_chi_thanh_bkt01.Form1.resources
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\bin\Debug\nguyen chi thanh bkt01.exe.config
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\bin\Debug\nguyen chi thanh bkt01.exe
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\bin\Debug\nguyen chi thanh bkt01.pdb
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen chi thanh bkt01.exe
+C:\Users\Admin\source\repos\nguyen chi thanh bkt01\nguyen chi thanh bkt01\obj\Debug\nguyen chi thanh bkt01.pdb
